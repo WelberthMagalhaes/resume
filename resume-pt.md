@@ -1,8 +1,6 @@
 # Welberth Heider Magalhães de Araújo
 
-**Desenvolvedor Senior II**
-
-Engenheiro de Software com foco em desenvolvimento backend, integração de sistemas e modernização de aplicações legadas.
+# Senior Backend Software Engineer (PHP)
 
 📍 Belo Horizonte - MG
 
@@ -16,13 +14,32 @@ Engenheiro de Software com foco em desenvolvimento backend, integração de sist
 
 # Resumo
 
-Engenheiro de Software com experiência no desenvolvimento de sistemas corporativos, APIs REST, integrações entre sistemas e evolução de aplicações legadas.
+Engenheiro de Software com mais de 3 anos de experiência em desenvolvimento backend utilizando PHP, atuando na evolução de sistemas corporativos de missão crítica.
 
-Atualmente atuo como Desenvolvedor Senior II na Acessórias, desenvolvendo soluções críticas utilizando PHP, MySQL, Redis e Apache.
+Atualmente trabalho como Desenvolvedor Senior II na Acessórias, desenvolvendo aplicações corporativas utilizando PHP, MySQL, Redis e Apache. Minha experiência está concentrada no desenvolvimento de APIs REST, integração entre sistemas, modelagem de bancos de dados relacionais, automação de processos, revisão de código e definição de soluções técnicas para novas funcionalidades.
 
-Tenho experiência em arquitetura de software, modelagem de banco de dados, desenvolvimento de APIs, automação de processos, revisão de código e integração entre sistemas corporativos.
+Ao longo da minha carreira participei da modernização de aplicações legadas, construção de integrações entre múltiplas plataformas corporativas, desenvolvimento de mecanismos de automação e implementação de funcionalidades de alto impacto para o negócio.
 
-Atualmente também desenvolvo projetos utilizando Laravel, NestJS, PostgreSQL e Docker.
+Tenho interesse especial por arquitetura de software, integração de sistemas, modernização de aplicações legadas e computação em nuvem. Também desenvolvo projetos utilizando Laravel, NestJS, PostgreSQL, Docker e Prisma ORM, além de estar aprofundando meus conhecimentos em AWS Cloud.
+
+---
+
+# Tecnologias
+
+PHP • Laravel • JavaScript • Node.js • NestJS • MySQL • PostgreSQL • Redis • DynamoDB • REST APIs • Docker • Git • Apache • AWS Cloud • Scrum • Kanban
+
+---
+
+# Destaques
+
+- ✔ Mais de 3 anos de experiência em desenvolvimento Backend com PHP.
+- ✔ Desenvolvimento de APIs REST para consumo interno e externo.
+- ✔ Integração entre sistemas corporativos e plataformas de terceiros.
+- ✔ Modelagem de bancos de dados relacionais.
+- ✔ Experiência com MySQL, PostgreSQL, Redis e DynamoDB.
+- ✔ Participação em revisão de código e decisões de arquitetura.
+- ✔ Desenvolvimento de automações e sincronização de dados entre sistemas.
+- ✔ Modernização e evolução de aplicações legadas.
 
 ---
 
@@ -36,94 +53,137 @@ Atualmente também desenvolvo projetos utilizando Laravel, NestJS, PostgreSQL e 
 - Node.js
 - Java
 
+## Frameworks
+
+- Laravel
+- NestJS
+
 ## Backend
 
+- Desenvolvimento Backend
 - APIs REST
 - Integração de Sistemas
-- Desenvolvimento Backend
-- Desenvolvimento de APIs
 - Arquitetura de Software
 - MVC
+- Desenvolvimento de APIs
+- Sistemas Legados
 
-## Bancos de Dados
+## Banco de Dados
 
 - MySQL
+- PostgreSQL
 - Redis
 - DynamoDB
-- PostgreSQL
+
+## Cloud
+
+- AWS Cloud (Cloud Practitioner em preparação)
+
+## DevOps
+
+- Docker
+- Apache
+- Git
+
+## Metodologias
+
+- Scrum
+- Kanban
 
 ## Ferramentas
 
-- Git
-- Docker
-- Apache
 - Jira
+- GitHub
 
 ---
 
 # Experiência Profissional
 
-## Desenvolvedor Senior II
+## Acessórias
 
-**Acessórias**
+**Desenvolvedor Senior II**
 
-Abr/2024 - Atual
+**Abr/2024 – Atual**
 
-### Responsabilidades
+### Progressão de carreira
 
-- Desenvolvimento e manutenção de sistema de gestão contábil.
-- Desenvolvimento de APIs REST.
-- Integrações entre sistemas.
+- Desenvolvedor Pleno
+- Desenvolvedor Senior I
+- Desenvolvedor Senior II
+
+### Principais responsabilidades
+
+- Desenvolvimento e manutenção de sistema corporativo para gestão contábil.
+- Desenvolvimento de APIs REST para integrações internas e externas.
+- Desenvolvimento de integrações entre sistemas corporativos.
 - Modelagem de banco de dados.
+- Desenvolvimento de novas funcionalidades.
 - Revisão de código.
+- Definição de soluções técnicas.
 - Participação em decisões de arquitetura.
-- Automação de processos.
+- Desenvolvimento de automações para processos internos.
 
 ### Principais entregas
 
-- Desenvolvimento de integrações entre múltiplos sistemas corporativos.
-- Criação de um mecanismo próprio de migrations inspirado no Laravel.
-- Implementação do suporte ao novo padrão de CNPJ Alfanumérico.
+- Desenvolvimento de integrações responsáveis pela sincronização automática de dados entre múltiplos sistemas corporativos.
+- Criação de um mecanismo próprio de migrations inspirado nos conceitos do Laravel para aplicações legadas.
+- Implementação completa do suporte ao novo padrão de CNPJ Alfanumérico da Receita Federal, preservando compatibilidade com o formato anterior.
+- Desenvolvimento de automações que reduziram processos manuais e aumentaram a consistência das informações entre plataformas.
+
+**Tecnologias**
+
+PHP • MySQL • Redis • Apache • JavaScript • REST APIs • Git • MVC • SQL • Integração de Sistemas • Arquitetura de Software
 
 ---
 
-## Desenvolvedor Full Stack
+## 123Milhas
 
-**123Milhas**
+**Desenvolvedor Full Stack**
 
-Nov/2022 - Ago/2023
+**Nov/2022 – Ago/2023**
 
-### Responsabilidades
+### Principais responsabilidades
 
 - Desenvolvimento backend utilizando PHP e MySQL.
-- Desenvolvimento de integrações.
-- Evolução de sistemas internos.
+- Desenvolvimento e manutenção de funcionalidades corporativas.
+- Desenvolvimento de integrações entre sistemas.
+- Evolução da plataforma interna.
+- Participação na implementação de requisitos de negócio.
 
 ### Principais entregas
 
-- Integração entre 123Milhas e MaxMilhas.
-- Desenvolvimento do módulo de reembolso.
-- Evolução de Desenvolvedor Júnior para Pleno.
+- Desenvolvimento das integrações entre os ambientes da 123Milhas e MaxMilhas durante o processo de unificação das operações.
+- Desenvolvimento completo do módulo de reembolso.
+- Evolução profissional de Desenvolvedor Júnior para Desenvolvedor Pleno em menos de um ano.
+
+**Tecnologias**
+
+PHP • MySQL • JavaScript • REST APIs • Git • SQL • Integração de Sistemas
 
 ---
 
-## Suporte Técnico de Campo
+## DXC Technology
 
-DXC Technology
+**Suporte Técnico de Campo**
 
-Nov/2021 - Nov/2022
+**Nov/2021 – Nov/2022**
 
-Suporte técnico, instalação de software, manutenção e atendimento corporativo.
+- Atendimento técnico em ambiente corporativo.
+- Instalação, configuração e manutenção de hardware e software.
+- Diagnóstico e resolução de incidentes.
+- Atendimento seguindo processos e indicadores de qualidade.
 
 ---
 
-## Técnico de Impressoras
+## Copy&Loc
 
-Copy&Loc
+**Técnico de Impressoras**
 
-Mar/2020 - Out/2021
+**Mar/2020 – Out/2021**
 
-Instalação, manutenção e suporte ao cliente.
+- Instalação e manutenção de impressoras.
+- Atendimento e suporte aos clientes.
+- Gerenciamento de impressão em ambiente corporativo.
 
 ---
 
@@ -131,15 +191,34 @@ Instalação, manutenção e suporte ao cliente.
 
 ## Modernização de Sistema Corporativo
 
-Migração de uma aplicação corporativa de **ASP Classic** e **Microsoft Access** para **PHP** e **MySQL**, preservando as regras de negócio e, ao mesmo tempo, melhorando a manutenibilidade e a evolução a longo prazo.
+Projeto de migração de uma aplicação corporativa originalmente desenvolvida em ASP Classic e Microsoft Access para PHP e MySQL, preservando regras de negócio críticas e aumentando significativamente a capacidade de evolução e manutenção do sistema.
+
+Tecnologias utilizadas:
+
+- PHP
+- MySQL
+- Apache
+- JavaScript
+
+---
+
+## Projetos de Estudo
+
+Desenvolvimento contínuo de aplicações para aprofundamento em arquitetura backend, APIs REST, microsserviços e computação em nuvem.
+
+**Tecnologias**
+
+Laravel • NestJS • PostgreSQL • Prisma ORM • Docker • AWS • Git
 
 ---
 
 # Formação
 
-Universidade Federal de Ouro Preto
+## Universidade Federal de Ouro Preto
 
-Bacharelado em Sistemas de Informação
+**Bacharelado em Sistemas de Informação**
+
+2016 – 2024
 
 ---
 
@@ -147,25 +226,33 @@ Bacharelado em Sistemas de Informação
 
 ## MBA USP/ESALQ
 
-Acelerando Projetos de Sucesso
+**Acelerando Projetos de Sucesso**
+
+---
+
+# Certificações
+
+- AWS Certified Cloud Practitioner *(em preparação)*
 
 ---
 
 # Idiomas
 
-Português (Nativo)
-
-Inglês (Básico - melhorando)
+- Português — Nativo
+- Inglês — Leitura técnica e em evolução para conversação.
 
 ---
 
-# Contact
+# Contato
 
-- LinkedIn  
-  https://www.linkedin.com/in/welberth-araujo/
+**LinkedIn**
 
-- GitHub  
-  https://github.com/WelberthMagalhaes
+https://www.linkedin.com/in/welberth-araujo/
 
-- Email  
-  welberthheider@gmail.com
+**GitHub**
+
+https://github.com/WelberthMagalhaes
+
+**E-mail**
+
+welberthheider@gmail.com
