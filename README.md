@@ -1,8 +1,6 @@
 # Welberth Heider Magalhães de Araújo
 
-**Senior Software Developer II**
-
-Backend Software Engineer focused on backend development, system integration, and modernization of legacy systems.
+# Senior Backend Software Engineer (PHP)
 
 📍 Belo Horizonte, MG - Brazil
 
@@ -14,15 +12,34 @@ Backend Software Engineer focused on backend development, system integration, an
 
 ---
 
-# Professional Summary
+# Summary
 
-Software Engineer with professional experience developing corporate systems, backend applications, REST APIs, system integrations, and legacy modernization.
+Software Engineer with over 3 years of experience in backend development using PHP, working on the evolution of business-critical enterprise systems.
 
-Currently working as Senior Software Developer II at Acessórias, designing and evolving business-critical applications using PHP, MySQL, Redis, and Apache.
+I currently work as a Senior Software Developer II at Acessórias, developing enterprise applications using PHP, MySQL, Redis, and Apache. My experience is focused on REST API development, system integration, relational database modeling, process automation, code review, and technical solution design for new features.
 
-Experienced in software architecture, database modeling, API development, process automation, code review, and enterprise system integration.
+Throughout my career, I have contributed to the modernization of legacy applications, the development of integrations across multiple enterprise platforms, automation mechanisms, and high-impact business features.
 
-Currently expanding expertise in Laravel, NestJS, PostgreSQL, Docker, and modern software architecture.
+I have a special interest in software architecture, system integration, legacy application modernization, and cloud computing. I also develop projects using Laravel, NestJS, PostgreSQL, Docker, and Prisma ORM, while deepening my knowledge of AWS Cloud.
+
+---
+
+# Technologies
+
+PHP • Laravel • JavaScript • Node.js • NestJS • MySQL • PostgreSQL • Redis • DynamoDB • REST APIs • Docker • Git • Apache • AWS Cloud • Scrum • Kanban
+
+---
+
+# Highlights
+
+- ✔ Over 3 years of experience in Backend development with PHP.
+- ✔ REST API development for internal and external consumption.
+- ✔ Integration between enterprise systems and third-party platforms.
+- ✔ Relational database modeling.
+- ✔ Experience with MySQL, PostgreSQL, Redis, and DynamoDB.
+- ✔ Participation in code reviews and architecture decisions.
+- ✔ Development of automations and data synchronization between systems.
+- ✔ Modernization and evolution of legacy applications.
 
 ---
 
@@ -36,102 +53,162 @@ Currently expanding expertise in Laravel, NestJS, PostgreSQL, Docker, and modern
 - Node.js
 - Java
 
+## Frameworks
+
+- Laravel
+- NestJS
+
 ## Backend
 
+- Backend Development
 - REST APIs
 - System Integration
-- Backend Development
-- API Development
 - Software Architecture
 - MVC
+- API Development
+- Legacy Systems
 
 ## Databases
 
 - MySQL
+- PostgreSQL
 - Redis
 - DynamoDB
-- PostgreSQL
+
+## Cloud
+
+- AWS Cloud (Cloud Practitioner in preparation)
+
+## DevOps
+
+- Docker
+- Apache
+- Git
+
+## Methodologies
+
+- Scrum
+- Kanban
 
 ## Tools
 
-- Git
-- Docker
-- Apache
 - Jira
+- GitHub
 
 ---
 
 # Professional Experience
 
-## Senior Software Developer II
+## Acessórias
 
-**Acessórias**
+**Senior Software Developer II**
 
-Apr 2024 - Present
+**Apr/2024 - Present**
 
-### Responsibilities
+### Career progression
 
-- Development and maintenance of enterprise accounting systems.
-- REST API development.
-- Internal and external system integrations.
+- Mid-level Developer
+- Senior Software Developer I
+- Senior Software Developer II
+
+### Main responsibilities
+
+- Development and maintenance of an enterprise system for accounting management.
+- REST API development for internal and external integrations.
+- Development of integrations between enterprise systems.
 - Database modeling.
-- Code reviews.
-- Architecture discussions.
-- Business process automation.
+- Development of new features.
+- Code review.
+- Technical solution design.
+- Participation in architecture decisions.
+- Development of automations for internal processes.
 
-### Key Achievements
+### Key deliveries
 
-- Designed enterprise integrations synchronizing customer data across multiple internal platforms.
-- Developed a custom migration engine inspired by Laravel for a legacy PHP application.
-- Led the implementation of Brazil's new Alphanumeric CNPJ support while maintaining backward compatibility.
+- Developed integrations responsible for the automatic synchronization of data across multiple enterprise systems.
+- Created a custom migrations mechanism inspired by Laravel concepts for legacy applications.
+- Fully implemented support for Brazil's new Alphanumeric CNPJ standard from the Federal Revenue Service, while preserving compatibility with the previous format.
+- Developed automations that reduced manual processes and increased information consistency across platforms.
+
+**Technologies**
+
+PHP • MySQL • Redis • Apache • JavaScript • REST APIs • Git • MVC • SQL • System Integration • Software Architecture
 
 ---
 
-## Full Stack Developer
+## 123Milhas
 
-**123Milhas**
+**Full Stack Developer**
 
-Nov 2022 - Aug 2023
+**Nov/2022 - Aug/2023**
 
-### Responsibilities
+### Main responsibilities
 
 - Backend development using PHP and MySQL.
-- Internal system integrations.
-- Business application development.
+- Development and maintenance of enterprise features.
+- Development of integrations between systems.
+- Evolution of the internal platform.
+- Participation in the implementation of business requirements.
 
-### Key Achievements
+### Key deliveries
 
-- Developed integrations between 123Milhas and MaxMilhas systems.
-- Implemented the complete refund module.
-- Promoted from Junior to Mid-level Developer.
+- Developed integrations between the 123Milhas and MaxMilhas environments during the process of unifying operations.
+- Developed the complete refund module.
+- Professional growth from Junior Developer to Mid-level Developer in less than one year.
 
----
+**Technologies**
 
-## Field Technical Support
-
-DXC Technology
-
-Nov 2021 - Nov 2022
-
-Technical support, hardware/software installation, troubleshooting and infrastructure support.
+PHP • MySQL • JavaScript • REST APIs • Git • SQL • System Integration
 
 ---
 
-## Printer Technician
+## DXC Technology
 
-Copy&Loc
+**Field Technical Support**
 
-Mar 2020 - Oct 2021
+**Nov/2021 - Nov/2022**
 
-Printer installation, maintenance and customer support.
+- Technical support in a corporate environment.
+- Installation, configuration, and maintenance of hardware and software.
+- Diagnosis and resolution of incidents.
+- Support following quality processes and indicators.
+
+---
+
+## Copy&Loc
+
+**Printer Technician**
+
+**Mar/2020 - Oct/2021**
+
+- Printer installation and maintenance.
+- Customer service and support.
+- Print management in a corporate environment.
 
 ---
 
 # Projects
 
-## Legacy System Modernization
+## Enterprise System Modernization
 
-Migration of a corporate application from ASP Classic and Microsoft Access to PHP and MySQL while preserving business rules and improving maintainability.
+Migration project for an enterprise application originally developed in ASP Classic and Microsoft Access to PHP and MySQL, preserving critical business rules and significantly increasing the system's evolution and maintenance capacity.
+
+Technologies used:
+
+- PHP
+- MySQL
+- Apache
+- JavaScript
+
+---
+
+## Study Projects
+
+Continuous development of applications to deepen knowledge in backend architecture, REST APIs, microservices, and cloud computing.
+
+**Technologies**
+
+Laravel • NestJS • PostgreSQL • Prisma ORM • Docker • AWS • Git
 
 ---
 
@@ -139,7 +216,7 @@ Migration of a corporate application from ASP Classic and Microsoft Access to PH
 
 ## Federal University of Ouro Preto
 
-Bachelor's Degree in Information Systems
+**Bachelor's Degree in Information Systems**
 
 2016 - 2024
 
@@ -147,27 +224,35 @@ Bachelor's Degree in Information Systems
 
 # Courses
 
-## MBA USP / ESALQ
+## MBA USP/ESALQ
 
-Accelerating Successful Projects
+**Accelerating Successful Projects**
+
+---
+
+# Certifications
+
+- AWS Certified Cloud Practitioner *(in preparation)*
 
 ---
 
 # Languages
 
-Portuguese (Native)
-
-English (Basic - improving)
+- Portuguese — Native
+- English — Technical reading and evolving toward conversation.
 
 ---
 
 # Contact
 
-- LinkedIn  
-  https://www.linkedin.com/in/welberth-araujo/
+**LinkedIn**
 
-- GitHub  
-  https://github.com/WelberthMagalhaes
+https://www.linkedin.com/in/welberth-araujo/
 
-- Email  
-  welberthheider@gmail.com
+**GitHub**
+
+https://github.com/WelberthMagalhaes
+
+**Email**
+
+welberthheider@gmail.com
